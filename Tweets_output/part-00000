@@ -1,0 +1,8 @@
+(Confusion matrix,2393.0  456.0  209.0  
+251.0   395.0  99.0   
+146.0   100.0  369.0  )
+(Accuracy,0.7145767315527388)
+(Weighted precision,0.7395901905697235)
+(Weighted recall,0.7145767315527388)
+(Weighted F1 score,0.7245315758251712)
+(Weighted false positive rate,0.2388520872992393)
